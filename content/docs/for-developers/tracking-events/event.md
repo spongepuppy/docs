@@ -1125,4 +1125,4 @@ For emails sent through our Legacy Marketing Email tool, unsubscribes look like 
 - [Webhook web libraries]({{root_url}}/for-developers/sending-email/libraries/)
 - [Analyze, Visualize, and Store SendGrid Event Data with Keen]({{root_url}}/for-developers/tracking-events/analytics-with-keen-io/)
 - [Email Event Data with Keen]({{root_url}}/ui/analytics-and-reporting/tracking-data-with-keen-io/)
-- [Run SQL on your Sengrid webhook data](https://pipedream.com/@dylburger/run-sql-on-sendgrid-engagement-data-for-free-p_X13CGV)
+- [Run SQL on your Sendgrid webhook data](https://pipedream.com/@dylburger/run-sql-on-sendgrid-engagement-data-for-free-p_X13CGV)
